@@ -7,13 +7,13 @@ Prerequisites: [Node (v16 LTS)](https://nodejs.org/en/download/) plus [Yarn (v1.
 > clone/fork 🏗 scaffold-eth:
 
 ```bash
-git clone https://github.com/scaffold-eth/scaffold-eth.git
+git clone https://github.com/jxmauricio/Quarter1Project.git
 ```
 
 > install and start your 👷‍ Hardhat chain:
 
 ```bash
-cd scaffold-eth
+cd Quarter1Project
 yarn install
 yarn chain
 ```
@@ -21,13 +21,16 @@ yarn chain
 > in a second terminal window, start your 📱 frontend:
 
 ```bash
-cd scaffold-eth
+cd Quarter1Project
 yarn start
 ```
 
 > in a third terminal window, 🛰 deploy your contract:
 
 ```bash
-cd scaffold-eth
+cd Quarter1Project
 yarn deploy
 ```
+
+> Now you should be able to access the Staker Web App! Add Funds to your wallet and start Staking!
+
