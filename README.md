@@ -32,5 +32,5 @@ cd Quarter1Project
 yarn deploy
 ```
 
-> Now you should be able to access the Staker Web App! Add Funds to your wallet and start Staking!
+> Now you should be able to access the Staker Web App! Add Funds to your wallet by copying your address on the top left corner and pasting it into the text box on the bottom left of the webpage called the `Faucet`. Load money into your wallet and start Staking!
 
