@@ -1,7 +1,7 @@
 # Quarter1Project
 
-<<<<<<< HEAD
-#how to run the code!
+
+#How to run the code!
 =======
 # 🏄‍♂️ Quick Start
 
