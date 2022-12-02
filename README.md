@@ -37,4 +37,4 @@ yarn deploy
 
 > Now you should be able to access the Staker Web App! Add Funds to your wallet by copying your address on the top right corner and pasting it into the text box on the bottom left of the webpage called the `Faucet`. Load money into your wallet and start Staking!
 
->>>>>>> 50243e158818d159ba4d4bd8f352c1d39e5d6a32
+
