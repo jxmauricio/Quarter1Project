@@ -1,9 +1,9 @@
 # Quarter1Project
 
 
-#How to run the code!
+# How to run the code!
 =======
-#Link to Youtube Explaining App!
+# Link to Youtube Explaining App!
 https://youtu.be/sFVFFMhhvLE
 # 🏄‍♂️ Quick Start
 
